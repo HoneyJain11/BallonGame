@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: bc40cf096da0944dd82f8776033b856d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5051276689014433048
+    second: buttonsandtittles_0
+  - first:
+      213: -8139043349905184192
+    second: buttonsandtittles_1
+  - first:
+      213: 4731931245858814288
+    second: buttonsandtittles_2
+  - first:
+      213: -2449353316558758516
+    second: buttonsandtittles_3
+  - first:
+      213: 8695527741676147227
+    second: buttonsandtittles_4
+  - first:
+      213: 6448707859304233779
+    second: buttonsandtittles_5
+  - first:
+      213: -6587047101118497695
+    second: buttonsandtittles_6
+  - first:
+      213: 7958387194519478940
+    second: buttonsandtittles_7
+  - first:
+      213: 7570050194903011539
+    second: buttonsandtittles_8
+  - first:
+      213: -7776034376426823962
+    second: buttonsandtittles_9
+  - first:
+      213: -8154556545640037761
+    second: buttonsandtittles_10
+  - first:
+      213: 8905163297216517773
+    second: buttonsandtittles_11
+  - first:
+      213: -1097359375882336139
+    second: buttonsandtittles_12
+  - first:
+      213: -4774830255228451284
+    second: buttonsandtittles_13
+  - first:
+      213: 8779124003916549288
+    second: buttonsandtittles_14
+  - first:
+      213: 5685551044004054028
+    second: buttonsandtittles_15
+  - first:
+      213: 6922185221896930250
+    second: buttonsandtittles_16
+  - first:
+      213: 6217304032319491440
+    second: buttonsandtittles_17
+  - first:
+      213: 3534324796195793618
+    second: buttonsandtittles_18
+  - first:
+      213: 5273214107695009533
+    second: buttonsandtittles_19
+  - first:
+      213: 2640309345761584661
+    second: buttonsandtittles_20
+  - first:
+      213: -1224915826843750465
+    second: buttonsandtittles_21
+  - first:
+      213: 4452380865247467033
+    second: buttonsandtittles_22
+  - first:
+      213: -5934622881739933874
+    second: buttonsandtittles_23
+  - first:
+      213: -8831185205731484229
+    second: buttonsandtittles_24
+  - first:
+      213: 8337958284247211959
+    second: buttonsandtittles_25
+  - first:
+      213: -3789771900226374144
+    second: buttonsandtittles_26
+  - first:
+      213: -4239627574171733756
+    second: buttonsandtittles_27
+  - first:
+      213: -2660477859290367393
+    second: buttonsandtittles_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buttonsandtittles_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2653
+        width: 132
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815aae6c26db91640800000000000000
+      internalID: 5051276689014433048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 2653
+        width: 126
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a656d123f4c0f80800000000000000
+      internalID: -8139043349905184192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_2
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2653
+        width: 124
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0597cf2b5623ba140800000000000000
+      internalID: 4731931245858814288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2653
+        width: 123
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d1715c226220ed0800000000000000
+      internalID: -2449353316558758516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_4
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2653
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1259210968bca870800000000000000
+      internalID: 8695527741676147227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_5
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2653
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b391e91a96e7950800000000000000
+      internalID: 6448707859304233779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_6
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 2653
+        width: 126
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cb01baf8b1694a0800000000000000
+      internalID: -6587047101118497695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_7
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2653
+        width: 126
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92e952fcfed17e60800000000000000
+      internalID: 7958387194519478940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_8
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 2653
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0121f5b883e0960800000000000000
+      internalID: 7570050194903011539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_9
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 2653
+        width: 125
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee5adf0fe9f51490800000000000000
+      internalID: -7776034376426823962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2518
+        width: 123
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f720a44c60235de80800000000000000
+      internalID: -8154556545640037761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_11
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2518
+        width: 129
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86df6556de759b70800000000000000
+      internalID: 8905163297216517773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_12
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2518
+        width: 134
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578c691367565c0f0800000000000000
+      internalID: -1097359375882336139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_13
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2518
+        width: 132
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2602565e256cbdb0800000000000000
+      internalID: -4774830255228451284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_14
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 2518
+        width: 42
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac0d8c84c6b5d970800000000000000
+      internalID: 8779124003916549288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_15
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2518
+        width: 127
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04863a1d8227ee40800000000000000
+      internalID: 5685551044004054028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_16
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 2518
+        width: 121
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac300a4b8ca801060800000000000000
+      internalID: 6922185221896930250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2045
+        width: 1124
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dc103a31d484650800000000000000
+      internalID: 6217304032319491440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1591
+        width: 1124
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daea1e2da17c0130800000000000000
+      internalID: 3534324796195793618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1100
+        width: 423
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe4db1da483e2940800000000000000
+      internalID: 5273214107695009533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_20
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1100
+        width: 422
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516634b6c5344a420800000000000000
+      internalID: 2640309345761584661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_21
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1100
+        width: 424
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf693d9b89300fe0800000000000000
+      internalID: -1224915826843750465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_22
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 559
+        width: 424
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91652d5aec80acd30800000000000000
+      internalID: 4452380865247467033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_23
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 559
+        width: 422
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e477cf99eebf3ada0800000000000000
+      internalID: -5934622881739933874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_24
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 559
+        width: 424
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd90b258d3517580800000000000000
+      internalID: -8831185205731484229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 10
+        width: 427
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf949412e066b370800000000000000
+      internalID: 8337958284247211959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_26
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 10
+        width: 422
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006ff3b2986086bc0800000000000000
+      internalID: -3789771900226374144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_27
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 10
+        width: 424
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401fa8d0f21d925c0800000000000000
+      internalID: -4239627574171733756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttonsandtittles_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2518
+        width: 1412
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ab4389b75141bd0800000000000000
+      internalID: -2660477859290367393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
